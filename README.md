@@ -8,7 +8,6 @@ Pathgenix AI is your personalized AI guide to navigating the complexities of car
 - **Curated Learning Resources**: Discover essential tools (with direct learning links where available) and practical project ideas for each step.
 - **Top YouTube Video Picks**: Access the most popular and relevant YouTube videos, handpicked to supplement your learning journey effectively.
 - **AI-Powered Insights**: Leverage cutting-edge AI to analyze your career goal and provide actionable, intelligent guidance for your future.
-- **Responsive Design**: Access your career paths on any device, anytime, anywhere.
 
 ## Tech Stack
 
